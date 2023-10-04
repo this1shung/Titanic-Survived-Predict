@@ -13,14 +13,14 @@ This project originated from a Kaggle competition the goal is use machine learni
 
 - We have two set of data, train.csv and test.csv that include passenger information like name, age, gender, socio-economic class, etc.
 
-        - The training set include the outcome(also known as the “ground truth”) for training purpose
+  +  The training set include the outcome(also known as the “ground truth”) for training purpose
 
-        - The test set not coming with the outcome because the mission of the model is predict the outcomes base on what it learn from the training set
+  +  The test set not coming with the outcome because the mission of the model is predict the outcomes base on what it learn from the training set
 - In this project I strongly focus in data manipulation :
 
-        - I have compared and plotted the relationships between independent variables as well as between independent variables and the dependent variable to gain a deeper understanding of the data and facilitate feature engineering
+  +  I have compared and plotted the relationships between independent variables as well as between independent variables and the dependent variable to gain a deeper understanding of the data and facilitate feature engineering
 
-        - Feature engineering : I have created additional columns from derived information from the existing columns (after analysis and understanding of those columns), while also removing unnecessary columns that might affect the model. Furthermore, I have simplified the values and converted them into ordinal values    
+  + Feature engineering : I have created additional columns from derived information from the existing columns (after analysis and understanding of those columns), while also removing unnecessary columns that might affect the model. Furthermore, I have simplified the values and converted them into ordinal values    
 
 - After all the operations, I have obtained the final two files for the test set and the train set, which have been uploaded along with the other files
 
