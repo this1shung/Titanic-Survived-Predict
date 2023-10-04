@@ -16,7 +16,8 @@ This project originated from a Kaggle competition the goal is use machine learni
   +  The training set include the outcome(also known as the “ground truth”) for training purpose
 
   +  The test set not coming with the outcome because the mission of the model is predict the outcomes base on what it learn from the training set
-- In this project I strongly focus in data manipulation :
+
+- In this project I strongly focus on data manipulation :
 
   +  I have compared and plotted the relationships between independent variables as well as between independent variables and the dependent variable to gain a deeper understanding of the data and facilitate feature engineering
 
