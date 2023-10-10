@@ -35,7 +35,7 @@ This project originated from a Kaggle competition the goal is use machine learni
 
 # Model
 
-- I have use four different models RandomForestClassifier, LogisticRegression, KNeighborsClassifier,DecisionTreeClassifier and then selected the model with the best scores on each metric to use as the final choice(use the predict on test set)
+- I have use four different models RandomForestClassifier, LogisticRegression, KNeighborsClassifier,DecisionTreeClassifier and then selected the model with the best scores on each metric to use as the final choice(use to predict on test set)
 
 # Final
 
