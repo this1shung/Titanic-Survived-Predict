@@ -29,7 +29,7 @@ This project originated from a Kaggle competition the goal is use machine learni
 
 - The data dictionary is document inside the notebook
 
-#Evaluation 
+# Evaluation 
 
 - In addition to accuracy, I have also used precision, recall, and F1 score, which are common metrics for evaluating models in binary classification problems.
 
